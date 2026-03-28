@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDIT: Update sitemap URL to match your real domain
+Sitemap: https://climatecontrolclubpros.com/sitemap.xml
